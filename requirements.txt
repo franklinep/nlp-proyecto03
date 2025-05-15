@@ -1,2 +1,4 @@
+datasets
 transformers
-nltk 
+nltk
+matplotlib
